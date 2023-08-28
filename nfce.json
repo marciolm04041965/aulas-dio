@@ -1,0 +1,231 @@
+{
+    "Documento": {
+        "ModeloDocumento": "NFCe",
+        "Versao": 4,
+        "ide": {
+            "cUF": 42,
+            "natOp": "Venda ao Consumidor",
+            "mod": "65",
+            "serie": "2",
+            "nNF": 200,
+            "dhEmi": "2023-08-21T15:32:51",
+            "fusoHorario": "-03:00",
+            "dhSaiEnt": "2023-08-21T15:32:51",
+            "tpNf": 1,
+            "idDest": 1,
+            "indFinal": 1,
+            "indPres": 1,
+            "cMunFg": 4209102,
+            "tpImp": 4,
+            "tpEmis": 1,
+            "tpAmb": 2,
+            "xJust": "",
+            "dhCont": "2023-08-21T15:32:51",
+            "finNFe": 1,
+            "EmailArquivos": "marcio@makenji.com.br",
+            "indIntermed": 0,
+            "NFRef": []
+        },
+        "infIntermed": {
+            "CNPJ_int": "99325560000183",
+            "idCadIntTran": "Fredi"
+        },
+        "emit": {
+            "CNPJ_emit": "33141620001686",
+            "CPF_emit": "",
+            "xNome": "SC26 GPE COMERCIO DE ROUPAS E ACESS.LTDA",
+            "xFant": "SC26 GPE COMERCIO DE ROUPAS E ACESS.LTDA",
+            "IM": "",
+            "IE": "262208385",
+            "CRT": 3,
+            "enderEmit": {
+                "xLgr": "RUA:BOCAIUVA,2468 -SHOP.BEIRA MAR",
+                "nro": "2468",
+                "xCpl": "SHOP.BEIRA MAR LJ 351 E 352",
+                "xBairro": "CENTRO",
+                "cMun": 4209102,
+                "xMun": "FLORIANOPOLIS",
+                "UF": "SC",
+                "CEP": 88015902,
+                "cPais": 1058,
+                "xPais": "BRASIL",
+                "fone": 0,
+                "fax": 0,
+                "Email": "makenji.com.br"
+            }
+        },
+        "dest": {
+            "CNPJ_dest": "",
+            "CPF_dest": "52079678949",
+            "idEstrangeiro": "",
+            "xNome_dest": "MARCIO MENDONCA",
+            "IE_dest": "",
+            "ISUF": "",
+            "indIEDest": 9,
+            "IM_dest": "",
+            "enderDest": {
+                "nro_dest": "128",
+                "xCpl_dest": "CASA",
+                "xBairro_dest": "Capoeiras",
+                "xEmail_dest": "marcio@makenji.com.br",
+                "xLgr_dest": "JosE Ferreira Correia",
+                "xPais_dest": "Brasil",
+                "cMun_dest": 4209102,
+                "xMun_dest": "FLORIANOPOLIS",
+                "UF_dest": "SC",
+                "CEP_dest": 88090040,
+                "cPais_dest": 1058,
+                "fone_dest": 48996020449
+            }
+        },
+        "det": [
+            {
+                "infADProd": "Produto Acabado",
+                "prod": {
+                    "cProd": "161597043903",
+                    "cEAN": "SEM GTIN",
+                    "xProd": "VESTIDO/MACACAO MISTO MHC VISCOLYCRA MACACAO NADAD",
+                    "NCM": "62046300",
+                    "EXTIPI": "",
+                    "CFOP": 5102,
+                    "uCOM": "UN",
+                    "qCOM": "1.0000",
+                    "vUnCom": "  249.900000",
+                    "vProd": "  249.900000",
+                    "cEANTrib": "SEM GTIN",
+                    "uTrib": "UN",
+                    "qTrib": "1.0000",
+                    "vUnTrib": "  249.900000",
+                    "vFrete": "0.00",
+                    "vSeg": "0.00",
+                    "vDesc": "   87.470000",
+                    "vOutro_item": "0.00",
+                    "indTot": 1,
+                    "nTipoItem": 0,
+                    "dProd": 0,
+                    "xPed_item": "",
+                    "nItemPed": "",
+                    "nFCI": "",
+                    "nRECOPI": "",
+                    "CEST": "",
+                    "cBenef": ""
+                },
+                "imposto": {
+                    "vTotTrib": "76.09",
+                    "ICMS": {
+                        "orig": 0,
+                        "CST": "00",
+                        "modBC": "3",
+                        "vBC": "162.43",
+                        "pICMS": 17,
+                        "vICMS_icms": "27.61",
+                        "modBCST": 0,
+                        "pMVAST": 0,
+                        "pRedBCST": 0,
+                        "vBCST": "0.00",
+                        "vBCSTRet": "0.00",
+                        "pICMSST": 0,
+                        "vICMSST_icms": "0.00",
+                        "vICMSSTRet": "0.00",
+                        "pRedBC": 0,
+                        "motDesICMS": 0,
+                        "vICMSDeson": "0.00",
+                        "vICMSOp": "0.00",
+                        "pDif": 0,
+                        "vICMSDif": "0.00",
+                        "pBCOp": 0,
+                        "UFST": "",
+                        "vBCSTDest": "0.00",
+                        "vICMSSTDest_icms": "0.00",
+                        "pCredSN": 0,
+                        "vCredICMSSN": "0.00",
+                        "pFCP": 0,
+                        "vFCP": "0.00",
+                        "vBCFCP": "0.00",
+                        "vBCFCPST": "0.00",
+                        "pFCPST": 0,
+                        "vFCPST": "0.00",
+                        "pST": 0,
+                        "vICMSSubstituto": "0.00",
+                        "vBCFCPSTRet": "0.00",
+                        "pFCPSTRet": 0,
+                        "vFCPSTRet": "0.00",
+                        "GerarICMSST": "",
+                        "pRedBCEfet": 0,
+                        "vBCEfet": "0.00",
+                        "pICMSEfet": 0,
+                        "vICMSEfet": "0.00"
+                    }
+                }
+            }
+        ],
+        "total": {
+            "ICMStot": {
+                "vBC_ttlnfe": "162.43",
+                "vICMS_ttlnfe": "27.61",
+                "vICMSDeson_ttlnfe": "0.00",
+                "vBCST_ttlnfe": "0.00",
+                "vST_ttlnfe": "0.00",
+                "vProd_ttlnfe": "249.90",
+                "vFrete_ttlnfe": "0.00",
+                "vSeg_ttlnfe": "0.00",
+                "vDesc_ttlnfe": "87.47",
+                "vII_ttlnfe": "0.00",
+                "vIPI_ttlnfe": "0.00",
+                "vPIS_ttlnfe": "0.00",
+                "vCOFINS_ttlnfe": "0.00",
+                "vOutro": "0.00",
+                "vNF": "162.43",
+                "vTotTrib_ttlnfe": "76.09"
+            }
+        },
+        "transp": {
+            "modFrete": 9,
+            "balsa": "",
+            "vagao": "",
+            "transporta": {
+                "CNPJ_transp": "",
+                "CPF_transp": "",
+                "xNome_transp": "",
+                "IE_transp": "",
+                "xEnder": "",
+                "xMun_transp": "",
+                "UF_transp": ""
+            }
+        },
+        "cobr": {
+            "fat": {
+                "nFat": "0920230815010001",
+                "vOrig": "249.90",
+                "vDesc_cob": "87.47",
+                "vLiq": "162.43"
+            }
+        },
+        "pag": [
+            {
+                "indPag_pag": "0",
+                "tPag": "01",
+                "vPag": "162.43",
+                "card": {
+                    "tipoIntegracao": 1,
+                    "CNPJ_card": "",
+                    "tBand": "",
+                    "cAut": ""
+                }
+            }
+        ],
+        "vTroco": "0.00",
+        "infSuplem": {
+            "qrCode": "",
+            "urlChave": ""
+        },
+        "RespTecnico": {
+            "CNPJ": "33141620000361",
+            "xContato": "Marcio Luiz Mendonca",
+            "email": "tigeral@makenji.com.br",
+            "fone": 4833802925,
+            "idCSRT": "",
+            "hashCSRT": ""
+        }
+    }
+}
